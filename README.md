@@ -32,6 +32,8 @@ Published online at <https://linked.data.gov.au/def/asgs>.
 #### RDF Dataset
 RDF data was originally interpreted _on the fly_ from this WS but is now available for download from the LocI S3 bucket (David knows where this is).
 
+The online data API is at <https://linked.data.gov.au/dataset/asgs2016>.
+
 Geometry data is within the LocI Geometry Data Service (https://gds.loci.cat/).
 
 #### Ingested into Data Platform
