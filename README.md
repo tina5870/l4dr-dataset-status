@@ -12,7 +12,7 @@ ASGS | Nick | X | X | ~<br />(old LocI) | | |
 Power Lines | Tina | X | | ~ | | ~
 Power Stations | Tina | X | | ~ | | ~
 Power Substations | Tina | X | | ~ | | ~
-Place Names | Tina | X | X | X | | X
+Place Names | Tina | X | X | ~<br />(via API) | | X
 Medical Facilities | | | | | | |
 Business Facilities | | | | | | |
 Exposure | | | | | | |
