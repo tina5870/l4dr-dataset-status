@@ -9,10 +9,8 @@ This repository tracks the status of publication/use of CaRSA LocI datasets. It 
 **Dataset** | **Manager** | **Have Data** | **Ontology** | **RDF Dataset** | **Ingested into Data Platform** | **Listed in Catalogue** | **Published Via API**
 --- | --- | --- | --- | --- | --- | --- | ---
 ASGS | David | X | X | ~<br />(old LocI) | | |
-Power Lines | Tina | X | | ~ | | ~
-Power Stations | Tina | X | | ~ | | ~
-Power Substations | Tina | X | | ~ | | ~
-Place Names | Tina | X | X | ~<br />(via API) | | X
+Power Infrastructure | Tina | X | | ~ | | ~
+Place Names | Tina | X | X | ~<br />(API scripts ready) | | X
 Facilities | | | | | | |
 Exposure | | | | | | |
 Floods | | | | | | |
@@ -42,7 +40,7 @@ Geometry data is within the LocI Geometry Data Service (https://gds.loci.cat/).
 
 ## Place Names
 #### Data
-Within GA as Postgres: request now with Tina to get a copy.
+Direct connection to FSDF database - SURROUND has access details.
 
 #### Ontology
 <https://linked.data.gov.au/def/placenames>
