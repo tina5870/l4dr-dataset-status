@@ -58,3 +58,34 @@ Code from the API can be reused to produce a static dataset, see the API's sourc
 #### Listed in Catalogue
 #### Published Via API
 
+## Power Infrastructure
+#### Data
+Data is held in table form at GA. Example rows of the data have been sent to SURROUND (Nick).
+
+#### Ontology
+#### RDF Dataset
+#### Ingested into Data Platform
+#### Listed in Catalogue
+#### Published Via API
+
+## Power Infrastructure
+combinedPower Lines, Power Stations, Power Substations
+
+#### Data
+Data is held in table form at GA. Example rows of the data have been sent to SURROUND (Nick).
+
+#### Ontology
+#### RDF Dataset
+#### Ingested into Data Platform
+#### Listed in Catalogue
+#### Published Via API
+
+## Facilities
+#### Data
+Data is held in table form at GA. Example rows of the data have been sent to SURROUND (Nick).
+
+#### Ontology
+#### RDF Dataset
+#### Ingested into Data Platform
+#### Listed in Catalogue
+#### Published Via API
