@@ -13,7 +13,7 @@ Power Lines | Tina | X | | ~ | | ~
 Power Stations | Tina | X | | ~ | | ~
 Power Substations | Tina | X | | ~ | | ~
 Place Names | Tina | X | X | ~<br />(via API) | | X
-Medical Facilities | | | | | | |
+Facilities | | | | | | |
 Exposure | | | | | | |
 Floods | | | | | | |
 Tropical Cyclones | | | | | | |
