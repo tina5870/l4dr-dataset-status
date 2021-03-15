@@ -8,7 +8,7 @@ This repository tracks the status of publication/use of CaRSA LocI datasets. It 
 
 **Dataset** | **Manager** | **Have Data** | **Ontology** | **RDF Dataset** | **Ingested into Data Platform** | **Listed in Catalogue** | **Published Via API**
 --- | --- | --- | --- | --- | --- | --- | ---
-ASGS | Nick | X | X | ~<br />(old LocI) | | |
+ASGS | David | X | X | ~<br />(old LocI) | | |
 Power Lines | Tina | X | | ~ | | ~
 Power Stations | Tina | X | | ~ | | ~
 Power Substations | Tina | X | | ~ | | ~
@@ -20,3 +20,21 @@ Floods | | | | | | |
 Tropical Cyclones | | | | | | |
 Bushfires | | | | | | |
 Earthquakes | | | | | | |
+
+
+## ASGS
+#### Data
+Original data is XML data taken from a production Web Service (WFS) hosted by the ABS at <https://geo.abs.gov.au/arcgis/services/ASGS2016/MB/MapServer/WFSServer?service=wfs&version=2.0.0&request=GetCapabilities>.
+
+#### Ontology
+Published online at <https://linked.data.gov.au/def/asgs>.
+
+#### RDF Dataset
+RDF data was originally interpreted _on the fly_ from this WS but is now available for download from the LocI S3 bucket (David knows where this is).
+
+Geometry data is within the LocI Geometry Data Service (https://gds.loci.cat/).
+
+#### Ingested into Data Platform
+#### Listed in Catalogue
+#### Published Via API
+
