@@ -38,3 +38,21 @@ Geometry data is within the LocI Geometry Data Service (https://gds.loci.cat/).
 #### Listed in Catalogue
 #### Published Via API
 
+
+## Place Names
+#### Data
+Within GA as Postgres: request now with Tina to get a copy.
+
+#### Ontology
+<https://linked.data.gov.au/def/placenames>
+
+#### RDF Dataset
+The RDF dataset is being built according to the ontology, within the API at <https://linked.data.gov.au/dataset/placenames>, but this needs validiating.
+
+Code from the API can be reused to produce a static dataset, see the API's source code at <https://github.com/GeoscienceAustralia/placenames-dataset/tree/master/model>.
+
+
+#### Ingested into Data Platform
+#### Listed in Catalogue
+#### Published Via API
+
