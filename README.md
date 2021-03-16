@@ -10,12 +10,12 @@ This repository tracks the status of publication/use of CaRSA LocI datasets. It 
 --- | --- | --- | --- | --- | --- | --- | ---
 ASGS | David | X | X | ~<br />(old LocI) | | |
 Power Infrastructure | Tina | X | | ~ | | ~
-Place Names | Tina | X | X | ~<br />(API scripts ready) | | X
-Facilities | | | | | | |
+Place Names | Tina | X | X | ~<br />(API) | | X
+Facilities | Joe | X | | | | |
 Exposure | | | | | | |
 Floods | | | | | | |
 Tropical Cyclones | | | | | | |
-Bushfires | | | | | | |
+Burnt Areas | Joe | X | | | | |
 Earthquakes | | | | | | |
 
 
@@ -66,10 +66,10 @@ Data is held in table form at GA. Example rows of the data have been sent to SUR
 #### Published Via API
 
 ## Power Infrastructure
-combinedPower Lines, Power Stations, Power Substations
+Combined Power Lines, Power Stations, Power Substations
 
 #### Data
-Data is held in table form at GA. Example rows of the data have been sent to SURROUND (Nick).
+CarSA data sets DB
 
 #### Ontology
 #### RDF Dataset
@@ -79,7 +79,7 @@ Data is held in table form at GA. Example rows of the data have been sent to SUR
 
 ## Facilities
 #### Data
-Data is held in table form at GA. Example rows of the data have been sent to SURROUND (Nick).
+CarSA data sets DB
 
 #### Ontology
 #### RDF Dataset
