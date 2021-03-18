@@ -1,6 +1,6 @@
-# carsa-loci-dataset-status
+# loci4dr-dataset-status
 
-This repository tracks the status of publication/use of CaRSA LocI datasets. It is expected that this information will eventually be folded into the project catalogue and this repository removed.
+This repository tracks the status of publication/use of Loc-I for Disaster Recovery datasets. It is expected that this information will eventually be folded into the project catalogue and this repository removed.
 
 * X - yes
 * ~ - partly
