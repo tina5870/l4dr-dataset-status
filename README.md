@@ -1,6 +1,6 @@
-# loci4dr-dataset-status
+# l4dr-dataset-status
 
-This repository tracks the status of publication/use of Loc-I for Disaster Recovery datasets. It is expected that this information will eventually be folded into the project catalogue and this repository removed.
+This repository tracks the status of publication/use of Loc-I for Disaster Recovery (l4dr) datasets. It is expected that this information will eventually be folded into the project catalogue and this repository removed.
 
 * X - yes
 * ~ - partly
