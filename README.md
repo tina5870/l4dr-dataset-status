@@ -12,7 +12,7 @@ ASGS | David | X | X | ~<br />(old LocI) | | |
 Power Infrastructure | Tina | X | | ~ | | ~
 Place Names | Tina | X | X | ~<br />(API) | | X
 Facilities | Joe/Tina | X | | | | |
-Exposure | | | | | | |
+Exposure |Joe/Tina | X | | | | |
 Floods | | | | | | |
 Tropical Cyclones | | | | | | |
 Burnt Areas | Joe | X | | | | |
