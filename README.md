@@ -11,7 +11,7 @@ This repository tracks the status of publication/use of Loc-I for Disaster Recov
 ASGS | David | X | X | ~<br />(old LocI) | | |
 Power Infrastructure | Tina | X | | ~ | | ~
 Place Names | Tina | X | X | ~<br />(API) | | X
-Facilities | Joe | X | | | | |
+Facilities | Joe/Tina | X | | | | |
 Exposure | | | | | | |
 Floods | | | | | | |
 Tropical Cyclones | | | | | | |
